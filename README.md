@@ -3,11 +3,11 @@ About r-nada
 
 Home: https://CRAN.R-project.org/package=NADA
 
-Package license: GPL (>= 2)
+Package license: GPL-2
 
 Feedstock license: BSD 3-Clause
 
-Summary: Contains methods described by Dennis Helsel in  his book "Nondetects And Data Analysis: Statistics  for Censored Environmental Data".
+Summary: Contains methods described by Dennis Helsel in his book "Nondetects And Data Analysis: Statistics for Censored Environmental Data".
 
 
 

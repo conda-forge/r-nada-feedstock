@@ -1,11 +1,11 @@
-About r-nada
-============
+About r-nada-feedstock
+======================
+
+Feedstock license: [BSD-3-Clause](https://github.com/conda-forge/r-nada-feedstock/blob/main/LICENSE.txt)
 
 Home: https://CRAN.R-project.org/package=NADA
 
 Package license: GPL-2.0-or-later
-
-Feedstock license: [BSD-3-Clause](https://github.com/conda-forge/r-nada-feedstock/blob/main/LICENSE.txt)
 
 Summary: Contains methods described by Dennis Helsel in his book "Nondetects And Data Analysis: Statistics for Censored Environmental Data".
 
